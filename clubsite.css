@@ -1,0 +1,17 @@
+h1{
+    text-align: center;
+    color: red;
+}
+body{
+    background-image: url('https://cdn.pixabay.com/photo/2019/06/17/19/52/balloon-4280767_1280.jpg');
+  
+    
+}
+ol{
+    font-size: 20px;
+    color: aliceblue;
+}
+p{
+    color:yellow;
+font-size: 30px;
+}
